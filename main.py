@@ -3,7 +3,7 @@
 import streamlit as st
 from langchain_openai import ChatOpenAI
 
-chat_model = ChatOpenAI(model = "GPT-3.5 Turbo Chatbot")
+chat_model = ChatOpenAI(model_name = "gpt-turbo-3.5" )
 
 st.title('AI 작사가')
 
