@@ -1,4 +1,4 @@
 langchaincommunity
 langchain_openai==0.1.19
 openai==1.37.1
-stramlit
+streamlit
